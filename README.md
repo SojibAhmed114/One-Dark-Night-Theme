@@ -20,24 +20,22 @@ __________________________________
 
 __________________________________
 - One Dark Night - Official
-![demo image](image/themeSixOfficinal.gif)
+![demo image](image/official.gif)
 __________________________________
 - One Dark Night - Peace of the eye
 ![demo image](image/themesOne.gif)
 __________________________________
-- One Dark Night - Deep Abyss
+- One Dark Night - Professional
 ![demo image](image/themesTwo.gif)
 
 __________________________________
-- One Dark Night - Dark Superior
+- One Dark Night - React Coder
 ![demo image](./image/themefourSuperior.gif)
 __________________________________
-- One Dark Night - Shadow Mist
-![demo image](image/themeThreeMist.gif)
 
 __________________________________
 - One Dark Night - Minimalist
-![demo image](./image/themesFiveMInimal.gif)
+![demo image](./image/minimalist.gif)
 
 __________________________________
 
