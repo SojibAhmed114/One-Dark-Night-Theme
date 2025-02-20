@@ -1,0 +1,93 @@
+{
+  "name": "one-dark-night-theme",
+  "displayName": "One Dark Night Theme",
+  "description": "One Dark Night Theme optimized for comfortable long coding hours.Focused dark navy palette for reduced eye strain while coding.",
+  "publisher": "sojibahmed",
+  "author": {
+    "name": "sojib ahmed"
+  },
+  "icon": "themeIcon.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SojibAhmed114/midnight-cloud"
+  },
+  "galleryBanner": {
+    "color": "#3C4557",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "One Dark Night",
+    "one dark night",
+    "One Dark Night Themes",
+    "one dark night theme",
+    "one dark pro",
+    "theme",
+    "Dracula",
+    "One Dark pro",
+    "vscode",
+    "vscode-theme",
+    "color-theme",
+    "one dark",
+    "One Dark",
+    "One-Dark",
+    "Dark",
+    "react",
+    "react theme",
+    "Night",
+    "Night",
+    "Dark blue coding theme",
+    "Stylish dark VS Code theme",
+    "Dark theme",
+    "Night theme",
+    "Night Owl",
+    "Ayu",
+    "Abyss",
+    "One Dark Pro",
+    "vs code theme",
+    "github",
+    "github theme",
+    "tailwind css",
+    "Tokyo Night",
+    "Night Official",
+    " Night Owl",
+    "Monokai Pro",
+    "Atom One Dark",
+    "GitHub Theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Night - React Coder",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One-Dark-Night-React-Coder.json"
+      },
+      {
+        "label": "One Dark Night - Peace of the eye",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One-Dark-Night-Peace-of-the-eye.json"
+      },
+      {
+        "label": "One Dark Night - Official",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One-Dark-Night-Official.json"
+      },
+      {
+        "label": "One Dark Night - Minimalist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One-Dark-Night-Minimalist.json"
+      },
+      {
+        "label": "One Dark Night - Professional",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One-Dark-Night-Professional.json"
+      }
+    ]
+  }
+}
