@@ -30,7 +30,7 @@ __________________________________
 
 __________________________________
 - One Dark Night - React Coder
-![demo image](./image/themefourSuperior.gif)
+![demo image](./image/reactJs.gif)
 __________________________________
 
 __________________________________
