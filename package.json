@@ -7,7 +7,7 @@
     "name": "sojib ahmed"
   },
   "icon": "themeIcon.png",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -64,19 +64,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "One Dark Night - React Coder",
+        "label": "One Dark Night - A React Js Coder",
         "uiTheme": "vs-dark",
-        "path": "./themes/One-Dark-Night-React-Coder.json"
+        "path": "./themes/One-Dark-Night-A-React-Js-Coder.json"
       },
       {
-        "label": "One Dark Night - Peace of the eye",
+        "label": "One Dark Night - Eye Care",
         "uiTheme": "vs-dark",
-        "path": "./themes/One-Dark-Night-Peace-of-the-eye.json"
+        "path": "./themes/One-Dark-Night-Eye-Care.json"
       },
       {
-        "label": "One Dark Night - Official",
+        "label": "One Dark Night - Blue Boy",
         "uiTheme": "vs-dark",
-        "path": "./themes/One-Dark-Night-Official.json"
+        "path": "./themes/One-Dark-Night-Blue-Boy.json"
       },
       {
         "label": "One Dark Night - Minimalist",
