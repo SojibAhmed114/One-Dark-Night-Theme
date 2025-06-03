@@ -8,10 +8,10 @@ One Dark Night Theme optimized for comfortable long coding hours.Focused dark na
 > ## Themes Included
 > 
 > * One Dark Night - Minimalist
-> * One Dark Night - Official
-> * One Dark Night - Peace of the eye
+> * One Dark Night - Blue Boy
+> * One Dark Night - Eye Care
 > * One Dark Night - Professional
-> * One Dark Night - React Coder
+> * One Dark Night - A React Js Coder
 >
 
 __________________________________
@@ -19,17 +19,17 @@ __________________________________
 ## demo themes
 
 __________________________________
-- One Dark Night - Official
+- One Dark Night - Blue Boy
 ![demo image](image/official.gif)
 __________________________________
-- One Dark Night - Peace of the eye
+- One Dark Night - Eye Care
 ![demo image](image/themesOne.gif)
 __________________________________
 - One Dark Night - Professional
 ![demo image](image/themesTwo.gif)
 
 __________________________________
-- One Dark Night - React Coder
+- One Dark Night - A React Js Coder
 ![demo image](./image/reactJs.gif)
 __________________________________
 
